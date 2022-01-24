@@ -1,0 +1,22 @@
+body
+{
+  background-image: linear-gradient(to right top, #1f0537, #380c60, #55108c, #7413bb, #9612eb);
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;    
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_object, #result_object_accuracy, #result_object_name
+{
+    color:mediumorchid;
+}
+#wishes
+{
+  color: aquamarine;
+}
